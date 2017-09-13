@@ -6,7 +6,7 @@ $('#fecha_nacimiento').datepicker
 
 ({
 
-	    maxDate: '2005-12-31',
+	    maxDate: '2015-12-31',
 
 		dateFormat: 'yy-mm-dd',
 
@@ -14,7 +14,7 @@ $('#fecha_nacimiento').datepicker
 
 		changeYear: true,
 
-		yearRange: "-60:-12"});
+		yearRange: "-60:-2"});
 
 
 	/*$('#fecha_nacimiento').datepicker({dateFormat: 'yy-mm-dd',changeMonth: true,changeYear: true,yearRange: "-100:+0"});*/

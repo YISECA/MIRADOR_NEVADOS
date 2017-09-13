@@ -20,8 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>PARQUE ECOLÓGICO DISTRITAL DE MONTAÑA ENTRE NUBES
-                           SECTOR MOLINOS Domingo 10 de Septiembre de 2017</h3></div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>CAMINATA FAMILIAR</h3> <h4>AULA AMBIENTAL PARQUE MIRADOR DE LOS NEVADOS (Domingo 17 de septiembre 2017)</h4></div>
 
                     </div>
 <br>
@@ -33,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/nubes.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/mirador.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/nubes1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/mirador1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/nubes2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/mirador2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -77,21 +76,20 @@
 
                         <h3>Ubicación</h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El Parque cuenta con una extensión de 626 Ha Ubicándose dentro de tres localidades, Con ingresos por varios sectores. Este sector tiene su ingreso por el barrio Molinos Localidad Rafael Uribe Uribe, lugar conocido como la piedra del amor, sendero que conduce a la entrada principal de la reserva y a la Administración del parque. </p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El aula ambiental Parque Mirador de Los Nevados queda en la localidad de Suba, en la  carrera 87ª No. 145-50, allí aprenderás sobre todo lo que tiene que ver con el tema de Cambio Climático, este terreno, en un primer momento fue una cantera que luego quisieron convertir en escombrera, pero felizmente se construyó un parque de recreación pasiva, por lo que se vive la cultura muisca, en sus plazas, caminos plazoletas y obeliscos con nombres escritos en esta lengua.</p>
                        
                         <h3>Descripción del recorrido </h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en el polideportivo Molinos II Sector donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones propias del recorrido y necesarias para su ejecucion dando inicio a la caminata.<br>
-                        Se llega a la piedra del amor y justo al pasar la quebrada La Nutria se ingresa a los predios del parque. Sendero en ascenso moderado demarcado y señalizado que conduce a la entrada principal del parque y al sector conocido como La Administración. Desde allí se cuenta con varios senderos que conducen a la parte alta del parque, fabulosos miradores y vegetación de subparamo nos esperan.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicia en la plaza principal de suba, donde se realizará un calentamiento de aproximadamente 15 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad y se iniciará con un desplazamiento hasta la entrada principal del parque, desde allí se realizaran varias estaciones para contar la historia y generalidades del parque. Se tomaran caminos en adoquín, ingresaremos a la parte administrativa, visitaremos las plazoletas y los obeliscos, donde conoceremos más sobre la cosmogonía muisca, luego tomaremos un  descanso en la plazoleta ancestral generando reflexión de nuestra relación con la naturaleza y nuestra cultura, terminaremos en la entrada principal del parque.</p>
 
-                        <h3>Durante el recorrido se visitaran los siguientes atractivos:</h3>
+                        <!--<h3>Durante el recorrido se visitaran los siguientes atractivos:</h3>
                         <ul class="ul_inicio">
                             <font style="font-size: 11pt; line-height: 25px;">
                             <li>Administración, Aulas y espacios de interpretación ambiental</li>
                             <li>Miradores </li>
                             <li>Diferentes senderos </li>
                             </font>
-                        </ul>
+                        </ul>-->
                         <br>
 
                         <font size="3"><center><table width="1000">
@@ -110,8 +108,8 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>POLIDEPORTIVO DE MOLINOS II SECTOR<br>
-                                               CALLE 48P SUR Cra 5</p>
+                                            <p>PLAZA CENTRAL SUBA-CLL146C BIS 90-57<br>
+                                            <strong>Barrio:</strong> TUNA ALTA</p>
 
                                         </td>
 
@@ -127,7 +125,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 10 de Septiembre de 2017</p>
+                                            <p>Domingo 17 de Septiembre de 2017</p>
 
                                         </td>
 
@@ -175,7 +173,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>12 - 60 años</p>
+                                            <p>2 - 60 años</p>
 
                                         </td>
 
@@ -191,7 +189,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Medio</p>
+                                            <p>BAJO</p>
 
                                         </td>
 
@@ -206,7 +204,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Entre 9° a 18°C </p>
+                                            <p>12°</p>
 
                                         </td>
 
@@ -221,7 +219,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3.000 m.s.n.m</p>
+                                            <p>2.700. a 2.750 m.s.n.m</p>
 
                                         </td>
 
@@ -230,16 +228,13 @@
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Como llegar</p>
+                                            <p>Duración</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>- <strong>Transmilenio:</strong> Estación Molinos <br><br>
-                                               - Alimentador Molinos 4-3<br><br>
-                                               - 4ta parada <br><br>
-                                               - <strong>Sitp:</strong> 194 – 540 – 614 - 661</p>
+                                            <p>3 Horas</p>
 
                                         </td>
 
@@ -253,27 +248,25 @@
 
                             <font  style="font-size: 11pt; line-height: 25px">
 
-                                <li>Llevar ropa cómoda</li>
+                                <li>Llevar ropa cómoda.</li>
                             
-                                <li>Llevar bloqueador solar</li>
+                                <li>Llevar bloqueador solar.</li>
 
-                                <li>Hidratación</li>
+                                <li>Hidratación y Refrigerio.</li>
 
-                                <li>Calzado cómodo</li>
+                                <li>Calzado cómodo.</li>
 
-                                <li>Llevar carné de la eps</li>
+                                <li>Llevar carné de la eps.</li>
 
-                                <li>Refrigerio.</li>
+                                <li>Medicamentos personales .</li>
 
-                                <li>Medicamentos personales </li>
+                                <li>No llevar mascotas .</li>
 
-                                <li>No llevar mascotas </li>
+                                <li>Caminata apta para mayores de 2 años.</li>
 
-                                <li>Abstenerse de participar mujeres en estado de embarazo, personas que tengan problemas cardiacos y de rodillas y que sufran de asma y/o vértigo</li>
+                                <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins>.</li>
 
-                                <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
-
-                                <!--<li><strong>Llevar la tarjeta de tu llave cargada, se debe regresar en el SITP</strong></li>-->
+                                <li><strong>Llevar impermeable en caso de lluvia</li>
                             </font>
 
                             <br>

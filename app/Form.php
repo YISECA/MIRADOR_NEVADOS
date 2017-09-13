@@ -14,7 +14,7 @@ class Form extends Model
 
 {
 
-   protected $table = 'entre_nubes';
+   protected $table = 'mirador_nevados';
 
 }
 
